@@ -1,0 +1,10 @@
+C:\Documents and Settings\samith.perera\Desktop\ConsoleApp\PrintValue\PrintValue\bin\Debug\PrintValue.exe
+C:\Documents and Settings\samith.perera\Desktop\ConsoleApp\PrintValue\PrintValue\bin\Debug\PrintValue.pdb
+C:\Documents and Settings\samith.perera\Desktop\ConsoleApp\PrintValue\PrintValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\samith.perera\Desktop\ConsoleApp\PrintValue\PrintValue\obj\Debug\PrintValue.exe
+C:\Documents and Settings\samith.perera\Desktop\ConsoleApp\PrintValue\PrintValue\obj\Debug\PrintValue.pdb
+C:\Documents and Settings\samith.perera\Desktop\Apps\ConsoleApp\PrintValue\PrintValue\obj\Debug\PrintValue.exe
+C:\Documents and Settings\samith.perera\Desktop\Apps\ConsoleApp\PrintValue\PrintValue\obj\Debug\PrintValue.pdb
+C:\Documents and Settings\samith.perera\Desktop\Apps\ConsoleApp\PrintValue\PrintValue\bin\Debug\PrintValue.exe
+C:\Documents and Settings\samith.perera\Desktop\Apps\ConsoleApp\PrintValue\PrintValue\bin\Debug\PrintValue.pdb
+C:\Documents and Settings\samith.perera\Desktop\Apps\ConsoleApp\PrintValue\PrintValue\obj\Debug\ResolveAssemblyReference.cache
